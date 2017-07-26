@@ -10,7 +10,7 @@
 
     <parent>
         <groupId>com.spring.angular4.shoppingcart</groupId>
-        <artifactId>parent</artifactId>
+        <artifactId>shoppingparent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
