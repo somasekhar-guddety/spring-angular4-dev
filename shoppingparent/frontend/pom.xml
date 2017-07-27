@@ -6,7 +6,7 @@
     <artifactId>frontend</artifactId>
 <groupId>com.spring.angular4.shoppingcart</groupId>
     <name>frontend</name>
-    <description>Angular 2 and Spring Shopping Cart</description>
+    <description>Angular 2 and Spring Shopping Cart1</description>
 
     <parent>
         <groupId>com.spring.angular4.shoppingcart</groupId>
@@ -25,6 +25,7 @@
                     <nodeVersion>v6.10.1</nodeVersion>
                     <npmVersion>4.4.1</npmVersion>
                     <workingDirectory>src/main/frontend</workingDirectory>
+<!--                     <installDirectory>g:/</installDirectory> -->
                 </configuration>
 
                 <executions>
