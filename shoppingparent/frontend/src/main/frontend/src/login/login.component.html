@@ -1,0 +1,8 @@
+<h2>Welcome to {{title}}</h2>
+<div style="padding-left: 200px;">
+		<input type="text" [(ng-model)]="username" value="{{username}}" placeholder="Username" /> 
+			<br /> 
+		<input type="password" ng-model="[(password)]" value="{{password}}" placeholder="Password" /> <br /> 
+		<input type="button" value="Login" (click)="submitLoginForm()"/>
+		{{retValue}}
+</div>
